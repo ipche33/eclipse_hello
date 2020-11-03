@@ -7,6 +7,7 @@ public class Helloworld
 		System.out.println("Hello World");
 		System.out.println("Dohyoeng, Kim");
 		System.out.println(20173186);
+		System.out.println("Computer SW engineering");
 	}
 
 }
